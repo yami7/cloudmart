@@ -74,7 +74,7 @@ const CloudMartMainPage = () => {
 
   const handleAddToCart = (product) => {
     addToCart(product);
-    // You might want to update the cart count in the header here
+    // YouU might want to update the cart count in the header here
   };
 
   const handleSearch = (e) => {
